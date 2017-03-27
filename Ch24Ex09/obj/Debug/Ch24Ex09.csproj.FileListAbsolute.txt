@@ -1,0 +1,6 @@
+D:\CSharp\CSharp4\Chapter24\Ch24Ex09\Ch24Ex09\bin\Debug\Ch24Ex09.exe.config
+D:\CSharp\CSharp4\Chapter24\Ch24Ex09\Ch24Ex09\bin\Debug\Ch24Ex09.exe
+D:\CSharp\CSharp4\Chapter24\Ch24Ex09\Ch24Ex09\bin\Debug\Ch24Ex09.pdb
+D:\CSharp\CSharp4\Chapter24\Ch24Ex09\Ch24Ex09\obj\Debug\Ch24Ex09.csprojResolveAssemblyReference.cache
+D:\CSharp\CSharp4\Chapter24\Ch24Ex09\Ch24Ex09\obj\Debug\Ch24Ex09.exe
+D:\CSharp\CSharp4\Chapter24\Ch24Ex09\Ch24Ex09\obj\Debug\Ch24Ex09.pdb
